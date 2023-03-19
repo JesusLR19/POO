@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TAREAS/ComparandoObjetos/ComparandoObjetos.iml" filepath="$PROJECT_DIR$/TAREAS/ComparandoObjetos/ComparandoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAREAS/Iterable_Iterator/Iterable_Iterator.iml" filepath="$PROJECT_DIR$/TAREAS/Iterable_Iterator/Iterable_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAREAS/OrdenamientoMetodoGenerico/OrdenamientoMetodoGenerico.iml" filepath="$PROJECT_DIR$/TAREAS/OrdenamientoMetodoGenerico/OrdenamientoMetodoGenerico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO-ACTIVIDADES.iml" filepath="$PROJECT_DIR$/POO-ACTIVIDADES.iml" />
+    </modules>
+  </component>
+</project>
